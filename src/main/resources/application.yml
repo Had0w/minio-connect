@@ -1,0 +1,9 @@
+
+minio:
+  url: https://play.min.io
+  access:
+    name: minioadmin
+    password: minioadmin
+  bucket: 16fbfd9a9ff5450eb0531aa2c082ca9b
+  default:
+    folder: /
